@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -30,4 +31,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+ body {
+   background: #f53b57
+ }
+.youtube {
+  border: 5px dashed #0fbcf9;
+  margin-top: 20px
+}
+
+button {
+  color: #efefef;
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: #808e9b;
+  border-radius: 8px
 }
